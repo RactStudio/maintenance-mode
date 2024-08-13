@@ -43,7 +43,7 @@ The EWPT Maintenance Mode module offers a comprehensive set of features to manag
 
 ## Credits
 
-[RactStudio](https://ewpt.ractstudio.com/)
+[Mahamudul Hasan Rubel](https://mhr.ractstudio.com/)
 
 
 ## License
