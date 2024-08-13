@@ -48,4 +48,4 @@ The EWPT Maintenance Mode module offers a comprehensive set of features to manag
 
 ## License
 
-"Essential Tools" is licensed under the GPL v2 or later.
+"Maintenance Mode" is licensed under the GPL v2 or later.
