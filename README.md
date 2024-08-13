@@ -2,7 +2,7 @@
 
 Maintenance Mode across your site, tailored to different user roles. Customize the maintenance page with our feature-rich customizer.
 
-### This is a Module for '[Essential WP Tools](https://wordpress.org/plugins/essential-wp-tools/)' WordPress Plugin, and require installion of the core plugin.
+### This is a Module for '[Essential WP Tools](https://wordpress.org/plugins/essential-wp-tools/)' WordPress Plugin, and require installation of the core plugin.
 
 ## EWPT Website: **[Essential WP Tools](https://ewpt.ractstudio.com/)**
 ## WordPress.org: [Download on WordPress.org](https://wordpress.org/plugins/essential-wp-tools/)
