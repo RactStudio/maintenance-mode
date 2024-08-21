@@ -2,7 +2,9 @@
 
 Maintenance Mode across your site, tailored to different user roles. Customize the maintenance page with our feature-rich customizer.
 
-### This is a Module for '[Essential WP Tools](https://wordpress.org/plugins/essential-wp-tools/)' WordPress Plugin, and require installation of the core plugin.
+### This is a Module for '[Essential WP Tools](https://wordpress.org/plugins/essential-wp-tools/)' WordPress Plugin and requires installation of the core plugin.
+
+## Try One Click [Live Preview](https://playground.wordpress.net/?mode=seamless&storage=browser&blueprint-url=https://raw.githubusercontent.com/RactStudio/maintenance-mode/main/blueprints/blueprint.json)
 
 ## EWPT Website: **[Essential WP Tools](https://ewpt.ractstudio.com/)**
 ## WordPress.org: [Download on WordPress.org](https://wordpress.org/plugins/essential-wp-tools/)
